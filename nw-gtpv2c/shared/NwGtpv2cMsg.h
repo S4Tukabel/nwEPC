@@ -158,6 +158,8 @@ extern "C" {
 #define NW_GTPV2C_IFTYPE_S5S8_PGW_PIMPv6                        (9)
 #define NW_GTPV2C_IFTYPE_S11_MME_GTPC                           (10)
 #define NW_GTPV2C_IFTYPE_S11S4_SGW_GTPC                         (11)
+#define NW_GTPV2C_IFTYPE_S4_SGSN_GTPC                           (17)
+    
 
 /* Indication Flag Values */
 #define NW_GTPV2C_INDICATION_FLAG_NONE                          (0x0000)
